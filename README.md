@@ -1,2 +1,2 @@
 # Laravel-vue--1
-16IARgicBNgZ0GlHmuEgXk7Ckc4h7t5Cu
+1qItBlaH5Y684etJmM61FtXLsxpNNzx5
